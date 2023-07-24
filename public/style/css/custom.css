@@ -1,0 +1,27 @@
+.action-column {
+    width: 120px;
+    text-align: center;
+}
+
+.action-column .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1px;
+    width: 30px;
+    height: 30px;
+}
+
+.table-transaction {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.table-transaction th, .table-transaction td {
+    border: none;
+    padding: 8px;
+}
+
+.table-transaction th {
+    text-align: left;
+}
